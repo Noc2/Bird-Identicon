@@ -58,7 +58,7 @@ function App() {
       <div className="container">
         <h1 className="heading"><span className="underline--magical">Kusama Bird Identicon</span> </h1>
         <div className="bird">
-        <svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500" preserveAspectRatio="xMinYMin" className="birds">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" preserveAspectRatio="xMinYMin" className="svgBird">
           <path id='path14437' d= 'm 495.67653,93.719633 7.65012,-19.67631 31.441,11.23795 z'style={{fill:baseLight}}></path>
           <path id='path14439' d= 'm 495.62423,93.867573 7.70242,-19.82425 -9.59645,-19.31917 z'style={{fill:base}}></path> 
           <path id='path4158' d= 'm 496.00304,93.993843 -2.26694,-39.3102 -22.76178,20.4497 z'style={{fill:baseLight}}></path>
