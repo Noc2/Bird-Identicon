@@ -1,6 +1,6 @@
 # Kusama Bird Identicon
 
-This project was hacked together. Don’t look at the code too closely ;-)  
+This project was hacked together very quickly. Don’t look at the code too closely ;-)  
 
 ## Development
 
